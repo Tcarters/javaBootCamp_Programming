@@ -1,0 +1,8 @@
+Usage
+
+- Used to refer current class instance variables.
+- Can be used to invloke current class methods.
+- This() can be used to invoke current class constructor.
+- can be passed as an argument in method call.
+- Can be passed as an argument in constructor call.
+- Cam be used to return current class instance from the method.

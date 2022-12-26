@@ -1,0 +1,5 @@
+Static Block 
+- It is executed before main & before class loads
+- Can we run a program without main ?
+
+
